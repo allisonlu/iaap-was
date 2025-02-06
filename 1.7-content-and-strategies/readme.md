@@ -74,6 +74,7 @@
 - [ ] Understand importance of providing alternatives for time-based media (e.g. captions or transcript)
 - [ ] Understand importance of providing another way to present equivalent information for prerecorded audio-only content (e.g. transcript)
 - [ ] Understand transcriptions can be available on the same screen where audio is, or through a link
+- [ ] Read [Video Captions by W3C](https://www.w3.org/WAI/perspective-videos/captions/) 
 
 ### Review
 - Read through [Design Considerations for Disabilities (Deque)](https://dequeuniversity.com/assets/pdf/module-design/dq-design-considerations.pdf) – 30 minutes
