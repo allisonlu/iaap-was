@@ -9,3 +9,10 @@ Written after [IAAP's Body of Knowledge](https://www.accessibilityassociation.or
 - 1.5 [Create interactive controls/widgets based on a11y best practices](/1.5-interactive-controls-and-widgets/readme.md)
 - 1.6 [Create accessible single-page applications (SPAs)](/1.6-spas/readme.md)
 - 1.7 [Create content that is compatible with strategies used by persons with disabilities to access web content](/1.7-content-and-strategies/readme.md)
+
+## Time log
+| date | study (in hrs) | tasks |
+| -- | -- | --|
+| 2/4/25 | 2 | notes on BoK |
+| 2/5/25 | 3 | notes on BoK, started study guide |
+| 2/6/25 | 4 | finished study guide for part 1 |
