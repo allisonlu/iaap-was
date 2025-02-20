@@ -1,14 +1,14 @@
 ## 1.1 Understand and interpret a11y specificiations and techniques 
 
 ### Web Content Accessibility Guidelines 2.1
-- [ ] Understand the relationship between principles, guidelines, and success criteria
-- [ ] Understand intent, requirement, and impact of each principle, guideline, and success criterion
-- [ ] Be familiar with sufficient, failure, and advisory techniques for each success criterion
-- [ ] Undertand the conformance level designations (A, AA, AAA)
-- [ ] Identify the conformance level of each WCAG 2.1 success criterion
-- [ ] Understand the three types of techniques and the W3C vetting process for techniques
+- Understand the relationship between principles, guidelines, and success criteria
+- Understand intent, requirement, and impact of each principle, guideline, and success criterion
+- Be familiar with sufficient, failure, and advisory techniques for each success criterion
+- Undertand the conformance level designations (A, AA, AAA)
+- Identify the conformance level of each WCAG 2.1 success criterion
+- Understand the three types of techniques and the W3C vetting process for techniques
 
-- [ ] Read [Intro to understanding WCAG 2.1](https://www.w3.org/WAI/WCAG21/Understanding/intro) – 15 minutes
+- [x] Read [Intro to understanding WCAG 2.1](https://www.w3.org/WAI/WCAG21/Understanding/intro) – 15 minutes
 - [ ] Read through [Understanding WCAG 2.1 (non-normative)](https://www.w3.org/WAI/WCAG21/Understanding/) – 2 hours
 - [ ] Read [WCAG 2.1 (normative)](https://www.w3.org/TR/WCAG21/) – 5 hours
 - [ ] Go through [WAS Certification - WCAG 2.1 sheet](https://docs.google.com/spreadsheets/d/1-E52YevqTxAYfQUZdDoMfqqumcmON9Boir6axGvvYOQ/edit?gid=0#gid=0) – 30 minutes
