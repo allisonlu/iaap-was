@@ -12,6 +12,10 @@ Written after [IAAP's Body of Knowledge](https://www.accessibilityassociation.or
 - 1.7 [Create content that is compatible with strategies used by persons with disabilities to access web content](/1.7-content-and-strategies/readme.md)
 
 2. Identify a11y issues in web solutions (40%)
+- 2.1 [Identify interoperability and compatibility issues](/2.1-interoperability-and-compatibility/readme.md) 
+- 2.2 [Determine conformance to accessibility specifications based on accessibility issues found](/2.2-conformance/readme.md)
+- 2.3 [Test with assistive technologies](/2.3-test-with-at/readme.md)
+  
 3. Remediating issues in web solutions (20%)
 
 ## Time log
@@ -20,3 +24,4 @@ Written after [IAAP's Body of Knowledge](https://www.accessibilityassociation.or
 | 2/4/25 | 2 | notes on BoK |
 | 2/5/25 | 3 | notes on BoK, started study guide |
 | 2/6/25 | 4 | finished study guide for part 1, started part 2 |
+| 2/20/25 | .5 | finished study guide for part 2 and 3 |
