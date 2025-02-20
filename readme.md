@@ -17,6 +17,8 @@ Written after [IAAP's Body of Knowledge](https://www.accessibilityassociation.or
 - 2.3 [Test with assistive technologies](/2.3-test-with-at/readme.md)
   
 3. Remediating issues in web solutions (20%)
+- 3.1 [Prioritize accessibility issues based on the level of severity](/3.1-prioritize-on-severity/readme.md) 
+- 3.2 [Recommend strategies and/or techniques for fixing accessibility issues](/3.2-fix/readme.md) 
 
 ## Time log
 | date | study (in hrs) | tasks |
@@ -24,4 +26,4 @@ Written after [IAAP's Body of Knowledge](https://www.accessibilityassociation.or
 | 2/4/25 | 2 | notes on BoK |
 | 2/5/25 | 3 | notes on BoK, started study guide |
 | 2/6/25 | 4 | finished study guide for part 1, started part 2 |
-| 2/20/25 | .5 | finished study guide for part 2 and 3 |
+| 2/20/25 | 2 | finished study guide for part 2 and 3, started reading through WCAG 2.1 - Perceivable |
